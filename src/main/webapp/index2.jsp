@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-jsp 프로젝트
-
+index2.jsp파일 추가
 </body>
 </html>
